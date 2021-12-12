@@ -44,7 +44,7 @@ sample_dict = {
 "salary": 8000,
 "city": "New york"
 }
-# Keys to remove
+Keys to remove
 keys = ["name", "salary"]
 
 Task # 6:
